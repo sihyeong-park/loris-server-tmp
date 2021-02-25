@@ -1,0 +1,17 @@
+.env
+.idea
+.DS_Store
+
+*.pickle
+*.hdf5
+*.pkl
+*.pyc
+
+venv
+data
+minute
+__pycache__
+node_modules
+ebest/minute
+
+package-lock.json
